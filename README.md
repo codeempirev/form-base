@@ -1,7 +1,7 @@
 <img src="https://ik.imagekit.io/lrjseyuxi3m/youtube/README-min_9yaGToBzcIj.png?updatedAt=1635797857577">
 
 ### About
-Form base used on this <a href="https://youtu.be/p9m0VZyXwhI">video tutorial</a>. Check the <a href="form-base.vercel.app">live demo</a>
+Form base used on this <a href="https://youtu.be/p9m0VZyXwhI">video tutorial</a>. Check the <a href="https://form-base.vercel.app/">live demo</a>
 
 ### Dependencies
 - <a href="https://nextjs.org/">Next JS</a>
@@ -22,4 +22,4 @@ Form base used on this <a href="https://youtu.be/p9m0VZyXwhI">video tutorial</a>
     $ yarn dev
 ```
 ### Subscribe, like and share
-<a href="https://www.youtube.com/channel/UCKVwiehGpmpUGKA-7evvuPw?sub_confirmation=1"><a/>
+<a href="https://www.youtube.com/channel/UCKVwiehGpmpUGKA-7evvuPw?sub_confirmation=1">SUBSCRIBE NOW!<a/>
