@@ -1,7 +1,7 @@
 <img src="https://ik.imagekit.io/lrjseyuxi3m/youtube/README-min_9yaGToBzcIj.png?updatedAt=1635797857577">
 
 ### About
-Form base usaed on this <a href="https://moveit-patrickrios.vercel.app/">video tutorial</a>.
+Form base used on this <a href="https://youtu.be/p9m0VZyXwhI">video tutorial</a>. Check the <a href="form-base.vercel.app">live demo</a>
 
 ### Dependencies
 - <a href="https://nextjs.org/">Next JS</a>
